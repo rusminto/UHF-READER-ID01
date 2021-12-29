@@ -24,3 +24,4 @@ Insert command "version;" or "VERSION;" within ```arduino-cli monitor``` or your
 References:
 - https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
 - https://wiki.dfrobot.com/UHF_RFID_MODULE-UART__SKU_TEL0082_
+- https://github.com/Arduinolibrary/DFRobot_ID10_UHF_RFID_Reader/blob/master/ID01%20UHF%20RFID%20Reader%20user%20manual.pdf?raw=true
