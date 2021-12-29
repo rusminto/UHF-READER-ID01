@@ -19,3 +19,8 @@ Insert command "version;" or "VERSION;" within ```arduino-cli monitor``` or your
 
 - Put your tag on rfid.
 - Insert command "write_tag:1a1a1a1a;" within ```arduino-cli monitor``` or your serial monitor, where "1a1a1a1a" is your new tag id.
+
+
+References:
+- https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
+- https://wiki.dfrobot.com/UHF_RFID_MODULE-UART__SKU_TEL0082_
